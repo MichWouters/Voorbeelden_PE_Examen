@@ -15,7 +15,25 @@ aantalGeslaagdeStudenten = BerekenAantalGeslaagdeStudenten(scores, aantalGeslaag
 
 OutputScores(gemiddelde, minimum, maximum, aantalGeslaagdeStudenten);
 
-int aantalKeerDatScoreVoorkomt = ZoekAantalScore(int gezochteScore);
+Console.WriteLine("Naar welke score wilt u zoeken?");
+int gezochteScore = int.Parse(Console.ReadLine());
+int aantalKeerDatScoreVoorkomt = ZoekAantalScore(gezochteScore);
+Console.WriteLine($"Score {gezochteScore} komt {aantalKeerDatScoreVoorkomt} keer voor.");
+
+int ZoekAantalScore(int gezochteScore)
+{
+    int aantal = 0;
+
+    for (int i = 0; i < scores.Length; i++)
+    {
+        if(scores[i] == gezochteScore)
+        {
+            aantal++;
+        }
+    }
+
+    return aantal;
+}
 
 void OutputScores(double gemiddelde, int minimum, int maximum, int aantalGeslaagdeStudenten)
 {
