@@ -12,3 +12,4 @@ C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\refint\Les11.dll
 C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.pdb
 C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.genruntimeconfig.cache
 C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\ref\Les11.dll
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.sourcelink.json
