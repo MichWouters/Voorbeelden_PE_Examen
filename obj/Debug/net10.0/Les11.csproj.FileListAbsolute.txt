@@ -1,0 +1,14 @@
+C:\Dev\Programming-essentials\Les11\bin\Debug\net10.0\Les11.exe
+C:\Dev\Programming-essentials\Les11\bin\Debug\net10.0\Les11.deps.json
+C:\Dev\Programming-essentials\Les11\bin\Debug\net10.0\Les11.runtimeconfig.json
+C:\Dev\Programming-essentials\Les11\bin\Debug\net10.0\Les11.dll
+C:\Dev\Programming-essentials\Les11\bin\Debug\net10.0\Les11.pdb
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.AssemblyInfoInputs.cache
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.AssemblyInfo.cs
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.csproj.CoreCompileInputs.cache
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.dll
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\refint\Les11.dll
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.pdb
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\Les11.genruntimeconfig.cache
+C:\Dev\Programming-essentials\Les11\obj\Debug\net10.0\ref\Les11.dll
